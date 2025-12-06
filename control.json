@@ -1,8 +1,8 @@
 {
   "status": "ON",
   "password": "rumanmodz",
-  "expiry_date": "2026-12-31 23:59:59", 
-  "user_count": "0",
+  "expiry_date": "xxxxxx", 
+  "user_count": "39",
   "maintenance": "false",
   "maintenance_message": "🔧 Server under maintenance"
 }
