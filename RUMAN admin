@@ -11,7 +11,7 @@ users.json
 {
   "users": {
     "testuser": {
-      "password": "testpass123",
+      "password": "1",
       "expiry_date": "2027-12-31",
       "device_id": "device123",
       "active": true,
@@ -25,7 +25,7 @@ users.json
       "test_account": true
     },
     "admin": {
-      "password": "admin123",
+      "password": "q",
       "expiry_date": "2026-12-31",
       "device_id": "admin_device",
       "active": true,
