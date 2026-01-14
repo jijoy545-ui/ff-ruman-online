@@ -12,14 +12,14 @@ users.json
   "users": {
     "testuser": {
       "password": "1",
-      "expiry_date": "2027-12-31",
+      "expiry_date": "2026-18-31",
       "device_id": "device123",
       "active": true,
       "test_account": false
     },
     "testkey": {
-      "password": "testkey123",
-      "expiry_date": "2025-12-31",
+      "password": "3",
+      "expiry_date": "2026-18-31",
       "device_id": null,
       "active": true,
       "test_account": true
